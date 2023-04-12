@@ -8,7 +8,7 @@ You can get more details by clicking on each article and more on the article by 
 <img src="./login.png"  width="200" height="500">
 
 # Signup
-![SignUp Screen](./signup.png)
+<img src="./signup.png"  width="200" height="500">
 
 # Home
 <img src="./home.png"  width="200" height="500">
