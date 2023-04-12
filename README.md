@@ -13,5 +13,5 @@ You can get more details by clicking on each article and more on the article by 
 #Home
 <img src="./home.png"  width="200" height="500">
 
-#Full Details Screen
+#Full Details 
 <img src="./fullscreen.png"  width="200" height="500">
