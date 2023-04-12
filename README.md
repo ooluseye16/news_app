@@ -4,14 +4,14 @@ This is an application that allows user to sign up and login with email and pass
 
 You can get more details by clicking on each article and more on the article by clicking on the url in the Details page.
 
-# Login
-![Login Screen](./login.png width="60%" height="30%)
+#Login
+<img src="./login.png"  width="200" height="500">
 
-# Signup
+#Signup
 ![SignUp Screen](./signup.png)
 
-# Home
-![Home Screen](./home.png)
+#Home
+<img src="./home.png"  width="200" height="500">
 
-# Full Details 
-![Full Screen](./fullscreen.png)
+#Full Details 
+<img src="./fullscreen.png"  width="200" height="500">
