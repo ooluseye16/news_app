@@ -5,7 +5,7 @@ This is an application that allows user to sign up and login with email and pass
 You can get more details by clicking on each article and more on the article by clicking on the url in the Details page.
 
 #Login
-<img src="./login.png"  width="60%" height="30%">
+<img src="./login.png"  width="60%" height="10%">
 
 #Signup
 ![SignUp Screen](./signup.png)
